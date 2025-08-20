@@ -15,4 +15,5 @@ Suas principais limitações estão relacionadas com sua base de conhecimento, c
 isso pode comprometer suas decisões.
 
 Como os sistemas especialistas podem evoluir com os avanços em IA?
+
 R:
