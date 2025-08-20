@@ -11,7 +11,8 @@ Gerônimo Van-Dick Rizzo Bortolozzo (04722-083)
 
 R: A principal vantagem é que sistemas especialista são menos propensos a erros humanos, 
 pois suas recomendações são baseadas em uma base de conhecimento e regras pré-programadas.
-Suas principais limitações são 
+Suas principais limitações estão relacionadas com sua base de conhecimento, caso as informações forem ruins
+isso pode comprometer suas decisões.
 
 Como os sistemas especialistas podem evoluir com os avanços em IA?
 R:
