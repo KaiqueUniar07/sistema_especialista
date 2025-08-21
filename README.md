@@ -16,4 +16,4 @@ isso pode comprometer suas decisões.
 
 Como os sistemas especialistas podem evoluir com os avanços em IA?
 
-R:
+R:A evolução do aprendizado de máquina possibilitou que esses sistemas fossem capazes de aprender com dados históricos e reconhecer padrões, sem a necessidade constante de alterações no código-fonte.
